@@ -1,42 +1,27 @@
-<div align="center">
+# Hi, I'm Daniel 👋
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   building systems that think, retrieve, and act autonomously    ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+Data scientist, AI engineer, and entrepreneur based in Madrid —
+obsessed with where AI is taking the world.
 
-# Daniel Totolici
-
-**AI & Data Science Engineer**  
-*Universidad Carlos III de Madrid × University of Waterloo*
-
-[![Portfolio](https://img.shields.io/badge/↗_portfolio-000000?style=for-the-badge)](https://new-portfolio-ebon-five.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/↗_linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-totolici-a07b282a1/)
-[![Email](https://img.shields.io/badge/↗_email-EA4335?style=for-the-badge)](mailto:danieltotolici115@gmail.com)
-
-</div>
+- 🤖 Focused on **Agentic AI · RAG · MCP · AI Security**
+- 🎓 Data Science & Engineering @ **Universidad Carlos III de Madrid**
+- 🍁 Exchange @ **University of Waterloo**
+- 🏅 **UC3M Excellence Scholar** — full tuition, competitive selection
+- 🌐 Watching the AI race between **China · US · Europe** — daily
 
 ---
 
-<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=psykoss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" />
-
-### Who I am
-
-Data scientist, AI engineer, and entrepreneur based in Madrid
-obsessed with where AI is taking the world.
-
-<br clear="right"/>
+I believe AI is the most consequential technology  
+in the history of human decision-making.  
+I think about this every day. I build toward it every week.
 
 ---
 
 ### Stack
 
 ```python
+agents    = ["LangChain", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
 core      = ["Python", "PyTorch", "Scikit-learn", "TensorFlow"]
-agents    = ["LangChain/LangGraph/LangSmith", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
 data      = ["PySpark", "Databricks", "Pandas", "SQL"]
 infra     = ["AWS", "Docker", "Firebase", "Django"]
 ```
@@ -53,8 +38,6 @@ infra     = ["AWS", "Docker", "Firebase", "Django"]
 
 ---
 
-<div align="center">
-
-*Open to collaborate.*  **[reach out](mailto:danieltotolici115@gmail.com)**
-
-</div>
+[![Portfolio](https://img.shields.io/badge/↗_portfolio-000000?style=for-the-badge)](https://new-portfolio-ebon-five.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/↗_linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-totolici-a07b282a1/)
+[![Email](https://img.shields.io/badge/↗_email-EA4335?style=for-the-badge)](mailto:danieltotolici115@gmail.com)
