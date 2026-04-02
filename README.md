@@ -25,13 +25,10 @@
 
 ### Who I am
 
-I'm interested in the part of AI that's hardest to get right —
+I believe AI is the most consequential technology
+in the history of human decision-making.
 
-**Security** — autonomous systems are only as safe as their weakest assumption.  
-**Retrieval** — keeping models grounded in what's actually true.  
-**Agency** — the gap between capability and reliable action is where everything breaks.
-
-🏅 UC3M Excellence Scholar · 🌐 ES · EN · RO · ZH
+I think about this every day. I build toward it every week.
 
 <br clear="right"/>
 
