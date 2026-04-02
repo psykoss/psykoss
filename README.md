@@ -1,59 +1,82 @@
-# Hi, I'm Daniel Totolici 👋
+<div align="center">
 
-**AI & Data Science Engineer** • UC3M Madrid × University of Waterloo  
-Passionate about the future of AI. Building at the intersection of **agentic AI**, **RAG pipelines**, and **production ML systems**.
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   building systems that think, retrieve, and act autonomously    ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
----
+# Daniel Totolici
 
-## About me
+**AI & Data Science Engineer**  
+*Universidad Carlos III de Madrid × University of Waterloo*
 
-I'm a Data Science & Engineering student at Universidad Carlos III de Madrid (exchange at the University of Waterloo, Canada🇨🇦), passionate about the frontier of AI — specifically the shift from static models to **autonomous, reasoning agents** that can act in the world.
+[![Portfolio](https://img.shields.io/badge/↗_portfolio-000000?style=for-the-badge)](https://new-portfolio-ebon-five.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/↗_linkedin-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/daniel-totolici-a07b282a1/)
+[![Email](https://img.shields.io/badge/↗_email-EA4335?style=for-the-badge)](mailto:danieltotolici115@gmail.com)
 
-I build end-to-end systems: from data pipelines, RAG systems and multi-agent systems. I care about making AI that is useful, reliable but also secure.
-
-- 🔭 Currently exploring: **MCP servers**, multi-agent orchestration, and retrieval-augmented generation
-- 🌍 Languages: Spanish · English (C1) · Romanian · Chinese (HSK2)
-- 🏅 UC3M Excellence Scholarship — 100% tuition coverage
-- 📍 Madrid, Spain
-
----
-
-## Tech stack
-
-**AI / LLMs / Agents**  
-`LangChain/LangGraph` `LlamaIndex` `Hugging Face Transformers` `RAG` `MCP` `Agentic AI` `OpenAI API`
-
-**Machine Learning & Deep Learning**  
-`PyTorch` `Scikit-learn` `TensorFlow`
-
-**Data Engineering**  
-`PySpark` `Databricks` `Pandas` `SQL`
-
-**Cloud & Deployment**  
-`AWS` `Docker` `Django` `Firebase` `Gradio` `Streamlit`
-
-**Languages**  
-`Python` `C++` `MATLAB` `R`
+</div>
 
 ---
 
-## Featured projects
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api?username=psykoss&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=888888&icon_color=ffffff" />
+
+### Who I am
+
+I'm interested in the part of AI that's hardest to get right —  
+systems that don't just predict, but **plan, retrieve, and execute**.
+
+Currently focused on:
+
+→ **Agentic AI** — multi-step reasoning, tool use, autonomous workflows  
+→ **RAG pipelines** — retrieval systems that actually stay grounded  
+→ **MCP** — connecting LLMs to the real world through structured protocols  
+→ **Production ML** — models that ship, not just notebooks that run  
+
+🏅 UC3M Excellence Scholar — full tuition, competitive selection  
+🌐 ES · EN · RO · ZH
+
+<br clear="right"/>
 
 ---
-## Startups
 
-### 🏠 Bluebee — real estate backend API
-Production REST API for a real estate management startup with **250+ active users**. Built and maintained the full backend.  
-`Python` `Django` `Firebase` → [bluebee.es](https://bluebee.es)
+### Stack
 
----
-
-## Let's connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://new-portfolio-ebon-five.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-totolici-a07b282a1/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danieltotolici115@gmail.com)
+```python
+core      = ["Python", "PyTorch", "Scikit-learn", "TensorFlow"]
+agents    = ["LangChain", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
+data      = ["PySpark", "Databricks", "Pandas", "Airflow", "SQL"]
+infra     = ["AWS", "Docker", "MLflow", "Firebase", "Django"]
+viz       = ["Gradio", "Streamlit", "Plotly Dash"]
+```
 
 ---
 
-*Open to research collaborations, internships, and interesting problems in AI engineering.*
+### Projects
+
+> *coming soon — currently building*
+
+<!-- add pinned repos below -->
+
+---
+
+### Currently building
+
+```
+[ ] RAG system over structured financial data
+[ ] MCP server exposing ML models as LLM-native tools
+[ ] Multi-agent pipeline for autonomous data analysis
+```
+
+---
+
+<div align="center">
+
+*I'm open to research collaborations, internships, and hard problems.*  
+*If you're working on something at the frontier — reach out.*
+
+**[danieltotolici115@gmail.com](mailto:danieltotolici115@gmail.com)**
+
+</div>
