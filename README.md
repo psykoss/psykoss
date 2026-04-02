@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel Totolici 👋
 
 Data scientist, AI engineer, and entrepreneur based in Madrid —
 obsessed with where AI is taking the world.
@@ -9,14 +9,6 @@ obsessed with where AI is taking the world.
 - 🏅 **UC3M Excellence Scholar** — full tuition, competitive selection
 - 🌐 Watching the AI race between **China · US · Europe** — daily
 
----
-
-I believe AI is the most consequential technology  
-in the history of human decision-making.  
-I think about this every day. I build toward it every week.
-
----
-
 ### Stack
 
 ```python
@@ -24,16 +16,6 @@ agents    = ["LangChain", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
 core      = ["Python", "PyTorch", "Scikit-learn", "TensorFlow"]
 data      = ["PySpark", "Databricks", "Pandas", "SQL"]
 infra     = ["AWS", "Docker", "Firebase", "Django"]
-```
-
----
-
-### Currently building
-
-```
-[ ] RAG system over structured financial data
-[ ] MCP server exposing ML models as LLM-native tools
-[ ] Multi-agent pipeline for autonomous data analysis
 ```
 
 ---
