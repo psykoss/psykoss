@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   It always seems impossible until it's done. -Nelson Mandela    ║
+║   building systems that think, retrieve, and act autonomously    ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -25,15 +25,13 @@
 
 ### Who I am
 
-I'm interested in the part of AI that's hardest to get right —  
-systems that don't just predict, but **plan, retrieve, and execute**.
+I'm interested in the part of AI that's hardest to get right —
 
-Currently focused on:
+**Security** — autonomous systems are only as safe as their weakest assumption.  
+**Retrieval** — keeping models grounded in what's actually true.  
+**Agency** — the gap between capability and reliable action is where everything breaks.
 
-→ **Agentic AI** — multi-step reasoning, tool use, autonomous workflows  
-→ **RAG pipelines** — retrieval systems that actually stay grounded  
-→ **MCP** — connecting LLMs to the real world through structured protocols  
-→ **Production ML** — models that ship, not just notebooks that run  
+🏅 UC3M Excellence Scholar · 🌐 ES · EN · RO · ZH
 
 <br clear="right"/>
 
@@ -43,18 +41,10 @@ Currently focused on:
 
 ```python
 core      = ["Python", "PyTorch", "Scikit-learn", "TensorFlow"]
-agents    = ["LangChain", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
+agents    = ["LangChain/LangGraph/LangSmith", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
 data      = ["PySpark", "Databricks", "Pandas", "SQL"]
-infra     = ["AWS", "Docker", "MLflow", "Firebase", "Django"]
+infra     = ["AWS", "Docker", "Firebase", "Django"]
 ```
-
----
-
-### Projects
-
-> *coming soon — currently building*
-
-<!-- add pinned repos below -->
 
 ---
 
@@ -70,9 +60,7 @@ infra     = ["AWS", "Docker", "MLflow", "Firebase", "Django"]
 
 <div align="center">
 
-*I'm open to research collaborations, internships, and hard problems.*  
-*If you're working on something at the frontier — reach out.*
-
-**[danieltotolici115@gmail.com](mailto:danieltotolici115@gmail.com)**
+*Open to to solve hard problems and collaborate.*  
+*Working on something at the frontier? —* **[reach out](mailto:danieltotolici115@gmail.com)**
 
 </div>
