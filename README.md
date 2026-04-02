@@ -25,10 +25,8 @@
 
 ### Who I am
 
-I believe AI is the most consequential technology
-in the history of human decision-making.
-
-I think about this every day. I build toward it every week.
+Data scientist, AI engineer, and entrepreneur based in Madrid
+obsessed with where AI is taking the world.
 
 <br clear="right"/>
 
@@ -57,7 +55,6 @@ infra     = ["AWS", "Docker", "Firebase", "Django"]
 
 <div align="center">
 
-*Open to to solve hard problems and collaborate.*  
-*Working on something at the frontier? —* **[reach out](mailto:danieltotolici115@gmail.com)**
+*Open to collaborate.*  **[reach out](mailto:danieltotolici115@gmail.com)**
 
 </div>
