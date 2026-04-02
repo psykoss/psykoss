@@ -35,9 +35,6 @@ Currently focused on:
 → **MCP** — connecting LLMs to the real world through structured protocols  
 → **Production ML** — models that ship, not just notebooks that run  
 
-🏅 UC3M Excellence Scholar — full tuition, competitive selection  
-🌐 ES · EN · RO · ZH
-
 <br clear="right"/>
 
 ---
@@ -47,9 +44,8 @@ Currently focused on:
 ```python
 core      = ["Python", "PyTorch", "Scikit-learn", "TensorFlow"]
 agents    = ["LangChain", "LlamaIndex", "MCP", "OpenAI API", "Hugging Face"]
-data      = ["PySpark", "Databricks", "Pandas", "Airflow", "SQL"]
+data      = ["PySpark", "Databricks", "Pandas", "SQL"]
 infra     = ["AWS", "Docker", "MLflow", "Firebase", "Django"]
-viz       = ["Gradio", "Streamlit", "Plotly Dash"]
 ```
 
 ---
