@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   building systems that think, retrieve, and act autonomously    ║
+║   It always seems impossible until it's done.                    ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
