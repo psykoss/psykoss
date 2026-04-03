@@ -1,4 +1,4 @@
-# Hi, I'm Daniel 👋
+# Hi, I'm Daniel Totolici 👋
 
 Data scientist, AI engineer, and entrepreneur based in Madrid —
 obsessed with where AI is taking the world.
@@ -6,22 +6,18 @@ obsessed with where AI is taking the world.
 - 🤖 Focused on **Agentic AI · RAG · MCP · AI Security**
 - 🎓 Data Science & Engineering @ **Universidad Carlos III de Madrid**
 - 🍁 Exchange @ **University of Waterloo**
-- 🏅 **UC3M Excellence Scholar** — full tuition, competitive selection
-- 🌐 Watching the AI race between **China · US · Europe** — daily
-
 ---
 
 ### Stack
 
 **Agents & LLMs**  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-F8481C?style=flat-square&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-
 **Core ML**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **Data**  
