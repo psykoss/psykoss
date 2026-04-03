@@ -15,6 +15,7 @@ obsessed with where AI is taking the world.
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-F8481C?style=flat-square&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000)
+
 **Core ML**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
