@@ -9,8 +9,6 @@ obsessed with where AI is taking the world.
 ---
 
 ### Stack
-
-**Agents & LLMs**  
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square&logo=langchain&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-8A2BE2?style=flat-square&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-F8481C?style=flat-square&logoColor=white)
