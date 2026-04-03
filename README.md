@@ -6,13 +6,6 @@ obsessed with where AI is taking the world.
 - 🤖 Focused on **Agentic AI · RAG · MCP · AI Security**
 - 🎓 Data Science & Engineering @ **Universidad Carlos III de Madrid**
 - 🍁 Exchange @ **University of Waterloo**
-
----
-
-I believe AI is the most consequential technology  
-in the history of human decision-making.  
-I think about this every day. I build toward it every week.
-
 ---
 
 ### Stack
@@ -41,6 +34,7 @@ I think about this every day. I build toward it every week.
 **[Marlow AI](https://marlow-ai.com)** — Continuous security testing for LLM applications  
 **[Aroa AI](https://www.aroa-ai.com)** — Streamline product development with AI-powered workflows, data-driven insights, and seamless team collaboration.  
 **[Bluebee](https://bluebee.es)** — Real estate management platform · 250+ active users
+
 **Polysignal** — Signal engine for finding opportunities in Polymarket
 
 ---
