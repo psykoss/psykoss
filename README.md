@@ -2,7 +2,7 @@
 ---
 ### 🟢 Currently
 
-- Developing my bachelor thesis "Comparative Adversarial Evaluation of Sandboxed Agentic AI Runtimes" Building a reproducible, runtime-agnostic harness that runs one adversarial attack
+- Developing my bachelor thesis *"Comparative Adversarial Evaluation of Sandboxed Agentic AI Runtimes"* Building a reproducible, runtime-agnostic harness that runs one adversarial attack
 catalog against the same agent under three configs --- unprotected
 baseline, OpenShell, and AGT and measures attack success rate,
 detection coverage, and utility cost. Output: a quantitative,
