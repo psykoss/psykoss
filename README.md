@@ -1,13 +1,8 @@
 # Hi, I'm Daniel Totolici 👋
 ---
-### 🟢 Currently
+## 🟢 Currently
 
-- Developing my bachelor thesis *"Comparative Adversarial Evaluation of Sandboxed Agentic AI Runtimes"* Building a reproducible, runtime-agnostic harness that runs one adversarial attack
-catalog against the same agent under three configs --- unprotected
-baseline, OpenShell, and AGT and measures attack success rate,
-detection coverage, and utility cost. Output: a quantitative,
-head-to-head picture of where kernel-level isolation and application-level
-governance each stop, miss, or complement one another.
+Developing my bachelor thesis **"Comparative Adversarial Evaluation of Sandboxed Agentic AI Runtimes"** — building a reproducible, runtime-agnostic harness that fires a single adversarial attack catalog against the same agent across three configs: unprotected baseline, OpenShell, and AGT. Measures attack success rate, detection coverage, and utility cost to produce a clean, quantitative head-to-head of where kernel-level isolation and application-level governance each hold, fail, and complement one another.
 ---
 
 Data scientist, AI engineer, and entrepreneur based in Madrid —
