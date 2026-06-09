@@ -2,7 +2,7 @@
 ---
 ## 🟢 Currently
 
-- Developing my bachelor thesis **"Comparative Adversarial Evaluation of Sandboxed Agentic AI Runtimes"** — building a reproducible, runtime-agnostic harness that fires a single adversarial attack catalog against the same agent across three configs: unprotected baseline, OpenShell, and AGT. Measures attack success rate, detection coverage, and utility cost to produce a clean, quantitative head-to-head of where kernel-level isolation and application-level governance each hold, fail, and complement one another.
+- Building a reproducible evaluation harness that fires a standardized adversarial attack catalog against the same AI agent across three configurations — unprotected baseline, OpenShell (kernel-level isolation), and AGT (application-level governance). Measures attack success rate, detection coverage, and utility cost to produce a quantitative head-to-head revealing where each security approach holds, fails, and complements the other.
 
 ---
 
