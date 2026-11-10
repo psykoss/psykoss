@@ -2,14 +2,18 @@
 ---
 ## 🟢 Currently
 
-- Building a reproducible evaluation harness that fires a standardized adversarial attack catalog against the same AI agent across three configurations — unprotected baseline, OpenShell (kernel-level isolation), and AGT (application-level governance). Measures attack success rate, detection coverage, and utility cost to produce a quantitative head-to-head revealing where each security approach holds, fails, and complements the other.
+- **[Ants](https://github.com/psykoss/ANTS)** — Adversarial Neural Testing Swarm for Physical AI. Actively searching for the conditions under which robot policies fail (terrain, actuation, sensing, disturbances) in MuJoCo/mjlab simulation, then turning those failures into data for retraining.
+- **AI security evaluation harness** — A reproducible benchmark that runs one standardized adversarial attack catalog against the same agent in three setups: unprotected baseline, OpenShell (kernel-level isolation), and AGT (application-level governance). Measures attack success rate, detection coverage, and utility cost.
+- **[Founder Town](https://github.com/psykoss/foundertown)** — 2D pixel-art social world for startup founders.
 
 ---
 
 Data scientist, AI engineer, and entrepreneur based in Madrid —
-obsessed with where AI is taking the world.
+building at the intersection of **Physical AI** and **AI Security**.
 
-- 🤖 Focused on **Agentic AI · RAG · MCP · AI Security**
+- 🦾 Physical AI: robot policy robustness, simulation-based testing, failure analysis
+- 🛡️ AI Security: adversarial testing, agent governance, continuous security evaluation for LLM apps
+- 🤖 Agentic AI · RAG · MCP
 - 🎓 Data Science & Engineering @ **Universidad Carlos III de Madrid**
 - 🍁 Exchange @ **University of Waterloo**
 ---
@@ -37,11 +41,16 @@ obsessed with where AI is taking the world.
 
 ### Projects
 
-**[Marlow AI](https://marlow-ai.com)** — Continuous security testing for LLM applications  
-**[Aroa AI](https://www.aroa-ai.com)** — Streamline product development with AI-powered workflows, data-driven insights, and seamless team collaboration.  
-**[Bluebee](https://bluebee.es)** — Real estate management platform · 250+ active users
+#### Physical AI & Security
+**[Ants](https://github.com/psykoss/ANTS)** — Adversarial testing swarm that finds failure modes of robot policies before deployment, not after  
+**AI security evaluation harness** — Standardized adversarial benchmarking across unprotected, kernel-isolated, and governed agent setups
 
-**Polysignal** — Signal engine for finding opportunities in Polymarket
+#### Products & Startups
+**[Marlow AI](https://marlow-ai.com)** — Continuous security testing for LLM applications  
+**[Aroa AI](https://www.aroa-ai.com)** — Streamline product development with AI-powered workflows, data-driven insights, and seamless team collaboration  
+**[Bluebee](https://bluebee.es)** — Real estate management platform · 250+ active users  
+**Polysignal** — Signal engine for finding opportunities in Polymarket  
+**[Founder Town](https://github.com/psykoss/foundertown)** — 2D pixel-art social world for startup founders
 
 ---
 
