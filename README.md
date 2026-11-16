@@ -17,4 +17,8 @@ AI engineer and entrepreneur working on **security for Physical AI**: finding ho
 
 [![Adversarial Agentic Task Synthesis](https://img.shields.io/badge/GitHub-Adversarial%20Agentic%20Task%20Synthesis-181717?style=flat-square&logo=github)](https://github.com/alfredowh/ANTS)
 
+## 📊 GitHub stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=psykoss&count_private=true&include_all_commits=true&theme=tokyonight&show_icons=true&hide_border=true)
+
 🌍 Spain · China · USA · Canada
